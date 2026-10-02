@@ -1,0 +1,1 @@
+"""Service layer for Aegis-X desktop orchestration."""
